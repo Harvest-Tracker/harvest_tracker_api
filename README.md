@@ -1,6 +1,7 @@
 # README
 
-#In progress, database currently being build
+#In progress, database currently being built
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
